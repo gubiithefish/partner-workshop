@@ -1,0 +1,7 @@
+ftfy
+rich
+python-dotenv
+pypdf
+llama-index-core
+llama-index-embeddings-huggingface
+pymilvus
